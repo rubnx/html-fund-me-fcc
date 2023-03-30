@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "solc": "0.8.7-fixed",
+        "yarn": "^1.22.19"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.7"
+    }
+}
